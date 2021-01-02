@@ -15,10 +15,9 @@
 ## Background
 Like many a Mandarin/Cantonese learner, with many an exasperated native-speaking significant other, I found myself often asking "what is that tone even *supposed* to sound like?!" - not to mention "that *is* how I pronounce it!" Having no background in linguistics and only sort of a grasp on Mandarin, I tried to use some recorded audio signals of my Mandarin speech and compare various features of the audio signal to examples as a way of obtaining educational feedback. I've focused on tone here, using the literal pitch (maximum-amplitude frequency) of the speech over time.
 
-Late in the game of writing this, I discovered a website which does basically the same thing: https://mandarintonetrainer.com/
-
 ## Examples 
 to-do 
 
 ## Useful links 
 + Most of the papers I had found on similar topics are around tone/character classification, e.g.: https://arxiv.org/pdf/1807.02465.pdf
++ Late in the game of writing this, I discovered a website which does basically the same thing: https://mandarintonetrainer.com/
