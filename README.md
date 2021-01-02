@@ -1,7 +1,10 @@
 # legendary-spork
 *Use computer microphone to plot pitch of speech and compare to Google Translate audio as real-time instructional feedback* 
 
-:dumpling:   :cn:   :mega:   :hear_no_evil: 
+:dumpling:
+:cn:
+:mega:
+:hear_no_evil: 
 
 + Side project from late 2020
 + `googletrans` translator Python API started having [https://github.com/ssut/py-googletrans/issues/234]issues around this time. It used to be easy to fetch automatic translations, and it would be fun to use this with dynamic user inputs, but until we can reliably use this or an equivalent for translation it will be hard 
