@@ -6,7 +6,7 @@
 The goal of this project was to provide visual feedback on the pronunciation of various words or phrases by plotting changes in vocal pitch and comparing to an instructional example. Without a library of native-speaker audio examples readily available, I source pronunciation examples from the Google Translate audio API (i.e., the audio file of the computer-generated voice in the Google Translate app). Since this project had the real-life goal of helping me improve my ability to perceive and reproduce tones in spoken Mandarin*, I also include some external research indicating that my understanding of tone and frequency is indeed the right linguistic property to be exploring. 
 
 + One-weekend project from late 2020
-+ After testing, the `googletrans` translator Python API started having [rate-limit issues](https://github.com/ssut/py-googletrans/issues/234) for me. I can't think of a better source for "example" audio and don't want to spend a bunch of time optimizing or paying for API calls, so even if this might be broken I'll leave it as-is and let the plot serve as proof-of-concept
++ After testing, the `googletrans` translator Python API started having [rate-limit issues](https://github.com/ssut/py-googletrans/issues/234) for me. The translation is just hard-coded in the meantime. 
 
 *Unfortunately...no claims can be made about this project's impact on my language learning abilites! :) 
 
